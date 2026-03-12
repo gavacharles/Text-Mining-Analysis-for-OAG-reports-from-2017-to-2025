@@ -1,1 +1,1 @@
-This repository develops a text mining framework to extract, clasify and analyse the systemic dispute drivers of construction disputes from the Auditor General's Annual Reports to Parliament from Financial Year 2017/2018 to Financial Year 2024/2025. 
+This repository develops a text mining framework to extract, classify and analyse the systemic dispute drivers of construction disputes from the Auditor General's Annual Reports to Parliament from Financial Year 2017/2018 to Financial Year 2024/2025. 
